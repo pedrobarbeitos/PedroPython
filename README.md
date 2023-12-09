@@ -1,5 +1,5 @@
 <h1 align="center">
-  Pedro Python Playground
+  Pedro's Python Playground
 </h1>
 <div align="center">
   <img alt="Mainly man with a python" src="https://www.mediastorehouse.com.au/p/164/head-keeper-snake-london-zoo-1896-32219284.jpg" width="440" />
