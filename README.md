@@ -1,5 +1,5 @@
 <h1 align="center">
-  Pedro Python
+  Pedro Python Playground
 </h1>
 <div align="center">
   <img alt="Ancinet Temple Photo" src="https://i.ibb.co/PhwVJSm/temples.png" width="700" />
