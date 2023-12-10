@@ -23,4 +23,4 @@ Welcome to the digital canvas where creativity meets code! This repository is a 
 
 ## Dive In!
 
-Feel free to explore, fork, or contribute. 
+Feel free to explore or fork.
