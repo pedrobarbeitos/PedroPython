@@ -11,10 +11,10 @@ Welcome to the digital canvas where creativity meets code! This repository is a 
 
 ## What's Inside?
 
-- **Algorithmic Artistry:** From data structures to design patterns, witness the elegance of algorithms in action.
 - **Miniature Marvels:** Small yet mighty, these projects pack a punch in functionality and innovation.
 - **Playful Prototypes:** Experimental ideas brought to life, showcasing the whimsical side of coding.
 - **Utility Belt:** A range of handy tools and utilities, perfect for everyday coding challenges.
+- **Algorithmic Artistry:** From data structures to design patterns, witness the elegance of algorithms in action.
 
 ## Why This Repository? 
 
